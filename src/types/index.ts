@@ -4,4 +4,5 @@ export interface AppEnv {
     DB_USERNAME: string;
     DB_PASSWORD: string;
     DB_PORT: number;
+    SERVER_PORT: number;
 }
